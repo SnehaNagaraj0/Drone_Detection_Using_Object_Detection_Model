@@ -7,4 +7,4 @@ It is a Drone Detection System using YOLO v8 used in restricted areas to prevent
    * Followed by (python app.py)
    * You will get a deployment link (http://127.0.0.1:500) Copy the link and paste on Browser.
    * Click on "video" to upload images, static -> files [choose any image and  upload].
-   * Click on subit and the system detects the percentage of Drone being visible.
+   * Click on submit and the system detects the percentage of Drone being visible.
