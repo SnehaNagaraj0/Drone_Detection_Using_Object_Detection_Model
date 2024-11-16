@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['drone']
+
+roboflow:
+  workspace: harun-yavuz-u94vy
+  project: drone-detection-kozki
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/harun-yavuz-u94vy/drone-detection-kozki/dataset/1
