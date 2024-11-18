@@ -1,5 +1,5 @@
 # Drone_Detection_Using_Object_Detection_Model
-It is a Drone Detection System using YOLO v8 used in restricted areas to prevent from unauthorised drone access.
+It is a Drone Detection Software using YOLO v8 used in restricted areas to prevent from unauthorised drone access.
  Here is the installation of the project:
    * Open Anaconda Prompt, Change the directory to the folder where you've exported the file (cd D:\Drone Detection) Ignore the paranthesis.
    * Followed by (D:)
